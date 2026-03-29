@@ -17,7 +17,7 @@ I am currently building foundational IT knowledge to prepare for a career in cyb
 
 ## Current Progress
 
-✅ 10 / 13 Modules Completed
+✅ 11 / 13 Modules Completed
 
 ## Goals
 
