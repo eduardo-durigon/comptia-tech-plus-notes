@@ -1,5 +1,3 @@
-# Cybersecurity Journal
-
 ### Module 10: Databases  
 
 ---
