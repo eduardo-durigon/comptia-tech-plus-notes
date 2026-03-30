@@ -1,5 +1,3 @@
-# Cybersecurity Journal  
-
 ### Module 11: Programming and Coding 
 
 ---
