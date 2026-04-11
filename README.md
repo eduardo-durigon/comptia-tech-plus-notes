@@ -10,14 +10,14 @@ I am currently building foundational IT knowledge to prepare for a career in cyb
 
 ## Study Plan
 
-- 13 Total Modules
+- 14 Total Modules
 - Weekly progress updates (Every Sunday)
 - Practice exam reviews and score tracking
 - Key concept summaries for long-term revision
 
 ## Current Progress
 
-✅ 12 / 13 Modules Completed
+✅ 14 / 14 Modules Completed
 
 ## Goals
 
