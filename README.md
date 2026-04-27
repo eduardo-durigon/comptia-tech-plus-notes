@@ -28,4 +28,4 @@ I am currently building foundational IT knowledge to prepare for a career in cyb
 
 ---
 
-Consistency > Intensity.
+➡️ Next step: CompTIA A+ (in progress)
