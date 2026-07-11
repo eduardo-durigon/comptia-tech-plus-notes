@@ -2,6 +2,8 @@
 
 # CompTIA Tech+ Certification Journey
 
+<img width="1536" height="1024" alt="ChatGPT Image Jul 11, 2026 at 11_37_58 AM" src="https://github.com/user-attachments/assets/a71b19f1-0bfc-43ee-a4d3-985307fd5ff6" />
+
 ## About This Repository
 
 This repository documents my journey studying for the CompTIA Tech+ certification as part of my transition from a professional chef into the cybersecurity field.
